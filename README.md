@@ -1,2 +1,2 @@
 # portfolio
-Hi...I am PRUNANK JADHAV...and this is my temp portfolio just for practise purpose.  
+Hi...I am PREM RANJAN its a digital representation of my professional journey, technical skills, and creative projects. Designed with a clean, responsive layout, it highlights my work as a web developer and showcases my passion for building user-friendly and visually appealing web experiences. The site includes sections for my bio, featured projects, and contact information, offering visitors an easy way to explore my work and connect with me. Built using modern web technologies, this portfolio reflects my continuous learning and commitment to delivering impactful digital solutions.
